@@ -17,3 +17,6 @@
 * Split the datasets into train-val-test sets (ratio: 60-20-20), without shuffling.
 * Print the size of each set and plot 5 training images and their corresponding masks.
 * Normalize the datasets. All value should be between 0.0 and 1.0. *Note: you don't have to use standardization, you can just divide them by 255.*
+
+
+![plot](https://github.com/SaraFattouh/Keypoint-Detection)

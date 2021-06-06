@@ -19,4 +19,4 @@
 * Normalize the datasets. All value should be between 0.0 and 1.0. *Note: you don't have to use standardization, you can just divide them by 255.*
 
 
-![plot](https://github.com/SaraFattouh/Keypoint-Detection)
+![plot](https://github.com/SaraFattouh/Keypoint-Detection/blob/main/Keypoint%20Detection.png)

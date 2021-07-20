@@ -1,5 +1,8 @@
 # Keypoint-Detection
 
+## Overvirew 
+In this repository, we explore various CNN architectures that can be used to detect keypoints in an image. We worked with Kaggle's CAT dataset.
+
 ## Dataset
 
 The CAT dataset includes over 9,000 cat images. For each image, there are annotations of the head of cat with nine points, two for eyes, one for mouth, and six for ears. We will use the keypoints corresponding to the nose, left and right eyes.

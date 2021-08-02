@@ -18,7 +18,7 @@ keypoint information can be combined together with the raw image to form a heatm
 
 To convert the training images to heatmaps, use the following procedure:
 
-1) For the nth keypoint, create a gaussian kernel centred at the (i,j)location of that keypoint.
+1) For the nth keypoint, create a gaussian kernel centred at the (i,j) location of that keypoint.
 2) Apply the kernel to every (i,j) location in the original image.
 3) Repeat steps 1-2 Nkeypoints times, updating the gaussian kernel with a new centre location. For each iteration, concatentate the resulting single-channel heatmap with the previous heatmaps.
 

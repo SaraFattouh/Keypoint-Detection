@@ -1,7 +1,7 @@
 # Keypoint-Detection
 
 ## Overvirew 
-In this repository, we explore various CNN architectures that can be used to detect keypoints in an image. We worked with Kaggle's CAT dataset.
+In this repository, we explore  CNN architecture that can be used to detect keypoints in an image. We worked with Kaggle's CAT dataset.
 
 ## Dataset
 
